@@ -2,5 +2,9 @@
   {
     "package": "add2ggplot",
     "oncran": true
+  },
+  {
+    "package": "rawKS",
+    "oncran": true
   }
 ]

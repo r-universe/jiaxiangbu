@@ -8,3 +8,8 @@
 	url = https://github.com/jiaxiangbu/add2ggplot
 	shallow = true
 	registered = true
+[submodule "rawKS"]
+	path = rawKS
+	url = https://github.com/jiaxiangbu/rawks
+	shallow = true
+	registered = true
