@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "add2ggplot"]
 	path = add2ggplot
 	url = https://github.com/jiaxiangbu/add2ggplot
-	shallow = true
-	registered = true
 [submodule "rawKS"]
 	path = rawKS
 	url = https://github.com/jiaxiangbu/rawks
-	shallow = true
-	registered = true
